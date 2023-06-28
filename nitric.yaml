@@ -1,0 +1,5 @@
+name: test-nest
+handlers:
+  - src/main.ts
+preview-features:
+  - http
